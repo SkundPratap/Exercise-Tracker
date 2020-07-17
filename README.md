@@ -4,7 +4,7 @@ An end to end application that helps you keep track of exercises for various use
 This project uses the [MERN stack](https://www.geeksforgeeks.org/mern-stack/):
 * [**M**ongoose.js](http://www.mongoosejs.com) ([MongoDB](https://www.mongodb.com)): database
 * [**E**xpress.js](http://expressjs.com): backend framework
-* [**R**ngular](https://reactjs.org): frontend framework
+* [**R**eact](https://reactjs.org): frontend framework
 * [**N**ode.js](https://nodejs.org): runtime environment
 
 ## Prerequisites
